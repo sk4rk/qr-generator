@@ -1,4 +1,4 @@
-# PYTHON QR CODE GENERATOR
+# Python QR Code Generator
 
 Read data from csv file and generate QR codes
 
